@@ -61,6 +61,7 @@ Après un parcours classique initié par une expérience de développement et po
 - Support et expertise pour les autres développeurs et développeuses du service (environ 30 personnes) sur les sujets relatifs au java et sur les questions relatives au _backend_ en général
 - Référent **Craftmanship** (réalisation de coding dojo, en particulier sur les tests)
 - **Contributions au produit sur la gestion des Métadonnées (API REST)**
+- Revue de _pull requests_
 - Veille technologique
 - Animation d'une équipe de 4 personnes (puis départ non remplacés et réorganisation du service)
 - Relais sécurité pour le RSSI Insee
