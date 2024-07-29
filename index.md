@@ -8,9 +8,9 @@ Développeur senior Java
 
 - 41 ans
 - fabrice.bibonne@gmail.com
-- +33 * ** ** ** **
+- +33 6 99 56 33 59
 - https://github.com/FBibonne
-- Linkedin
+- https://www.linkedin.com/in/fabrice-bibonne-1729a1180/
 
 ## A propos
 
@@ -18,12 +18,12 @@ Après un parcours classique initié par une expérience de développement et po
 
 ## Compétences et aptitudes
 
-- Expert :
+`Expert`
   - Java
   - Spring Boot, Spring framework
   - Junit
 
-- Bon niveau :
+`Bon niveau`
   - Eco-conception
   - Sonar
   - Spring Batch, Data, Security
@@ -36,10 +36,12 @@ Après un parcours classique initié par une expérience de développement et po
   - SQL
   - Struts
   - Architecture technique et logicielle
+  - Craftmanship
+  - Sécurité des développements
   - DevOps
   - Agilité 
 
-- Quelques connaissances :
+`Quelques connaissances`
   - Github actions
   - Graal VM
   - Kubernetes
@@ -47,16 +49,10 @@ Après un parcours classique initié par une expérience de développement et po
   - Open Telemetry
   - Javascript
 
-- eco-conception
-- securité
-- DDD (domaine = besoin utilisateur)
-- Craft
-- 
-
-
 ## Expériences professionnelles
 
-`2019 - présent : Expert java`
+`2019 - présent`
+**Expert java**
 **Insee Lille**
 
 - Support et expertise pour les autres développeurs et développeuses du service (environ 30 personnes) sur les sujets relatifs au java et sur les questions relatives au _backend_ en général
@@ -78,7 +74,8 @@ Après un parcours classique initié par une expérience de développement et po
 - Présentations :
   - Présentation orientée Green-it autour de l'utilisation des caches dans les API
 
-`2016 - 2019 : Chef de projet informatique de l'application Nautile` 
+`2016 - 2019`
+**Chef de projet informatique de l'application Nautile** 
 **Insee Lille**
 
 > L'application Nautile est l'application de l'Insee qui permet le tirage des échantillons de ménages ou personnes enquêtés par l'Insee. Cette application permet d'effectuer les tirages, de gérer les échantillons et les bases de sondage (fichier de la population dans lequel on tire les personnes à interrroger). **Application avec une API REST et des batchs en java et une IHM React**
@@ -92,7 +89,8 @@ Après un parcours classique initié par une expérience de développement et po
 - Lancement d'une sous-traitance
 - Jury de l'examen pour la qualification d'analyste développeur du Minefi
 
-`2012 - 2016 : Chef de projet informatique de l'application Opale`
+`2012 - 2016`
+**Chef de projet informatique de l'application Opale**
 **Insee Lille**
 
 > L'application Opale est chargée de la gestion du temps de travail des enquêteurs de l'Insee. **Application en J2EE.**
@@ -108,17 +106,19 @@ Après un parcours classique initié par une expérience de développement et po
 - Formation d'un adjoint
 - Participation au recueil et à la formalisation du besoin initial de l'application OPALE
 
-`2009 - 2012 : Chargé d'investissement au PSAR emploi-population` 
+`2009 - 2012`
+**Chargé d'investissement au PSAR emploi-population** 
 **Insee Lille**
 
-> _Le PSAR (pôle de de service de l'action régionale) emploi - population_ de l'Insee Lille fait partie de la sphère de l'action régionale de l'Insee. L'action régionale consiste entre autres à réaliser des études pour les partenaires institutionnels (conseils régionaux, communautés d'agglomération, ...) de l'Insee dans les différentes régions françaises. Le rôle du PSAR emploi - population est de produire pour l'ensemble des territoires français des données et des indicateurs sur les thématiques sociales et démographiques. Ces indicateurs et ces données sont mobilisables au besoin par chaque région de l'Insee au sein des études partenariales.
+> _Le PSAR (pôle de de service de l'action régionale) emploi - population_ de l'Insee Lille fait partie de la sphère de l'action régionale de l'Insee. L'action régionale consiste entre autres à réaliser des études pour les partenaires institutionnels (conseils régionaux, communautés d'agglomération, ...) de l'Insee dans les différentes régions françaises. Le rôle du PSAR emploi - population est de produire pour l'ensemble des territoires français des données et des indicateurs sur les thématiques sociales et démographiques. Ces indicateurs et ces données sont mobilisables au besoin par chaque région de l'Insee au sein des études partenariales. **Poste hors sphère informatique de l'Insee**
 
 - Pilotage de la réalisation de l'investissement « Formation, métiers,emploi » utilisant les données de l'enquête emploi de l'Insee
 - Participation à une étude comparative  entre le Nord-Pas-de-Calais et la Couïavie - Poméranie (_région_ (voivoïdie) polonaise)
 - Pilotage de la refonte de l'investissement « Premier emploi des jeunes et trajectoires sur 3 ans »
 - Co-pilotage de la refonte de l'investissement « Services à la personne » 
 
-`2006 - 2009 : Responsable informatique de l'application SAIGE`
+`2006 - 2009`
+**Responsable informatique de l'application SAIGE**
 **Insee Lille**
 
 > L'application Saige était chargée de la gestion de la paie des enquêteurs de l'Insee en tant que pigistes jusqu'à leur intégration en tant qu'agents Insee titulaires. **Application utilisant une IHM en Paradox et des procédures stockées Oracle**
@@ -134,8 +134,8 @@ Après un parcours classique initié par une expérience de développement et po
 
 ## Centres d'intérêt
 
-- Green it
-- TIC (linux, java, ...)
+- Ecologie
+- Informatique (linux, java, ...)
 - Montagne, escalade, ski
 
 ## Formation
