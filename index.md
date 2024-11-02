@@ -6,7 +6,7 @@ title: CV Fabrice Bibonne
 
 Développeur senior Java
 
-- 41 ans
+- 42 ans
 - fabrice.bibonne@gmail.com
 - +33 6 99 56 33 59
 - https://github.com/FBibonne
@@ -65,15 +65,15 @@ Après un parcours classique initié par une expérience de développement et po
 - Relais sécurité pour le RSSI Insee
 - Formations à java (niveaux débutant et avancé)
 - Résorbption de la dette technique de plusieurs applications _legacy_ 
-- Animation des travaux autour du poste de travail du développeur Insee
+- Animation des travaux autour du poste de travail du développeur Insee et développement d'un outil pour protéger l'accès aux ressources protégées par les applications java exécutées en local
 - Contributions au framework Spring
 - Preuves de concept : 
-  - [Moteur de transformation générique entre des formats de description de questionnaire](https://github.com/InseeFr/Eno) **LIEN VERS LE POC**
+  - [Moteur de transformation générique entre des formats de description de questionnaire](https://github.com/InseeFr/Eno)
   - Approche _contract first_ pour une API :
     - [Dépôt](https://github.com/FBibonne/openapi-cache/tree/master)
     - [Présentation](https://gitlab.insee.fr/xrmfux/presentations/-/blob/main/seminaire2024/contractFirst.md?ref_type=heads#open-api-approche-contrat-first-3)  
 - Présentations :
-  - Présentation orientée Green-it autour de l'utilisation des caches dans les API
+  - [Présentation orientée Green-it autour de l'utilisation des caches dans les API](https://github.com/FBibonne/prez-green-it)
 
 `2016 - 2019`
 **Chef de projet informatique de l'application Nautile** 
