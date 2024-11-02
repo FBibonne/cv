@@ -8,7 +8,6 @@ Développeur senior Java
 
 - 42 ans
 - fabrice.bibonne@gmail.com
-- +33 6 99 56 33 59
 - https://github.com/FBibonne
 - https://www.linkedin.com/in/fabrice-bibonne-1729a1180/
 
@@ -64,7 +63,7 @@ Après un parcours classique initié par une expérience de développement et po
 - Animation d'une équipe de 4 personnes (puis départ non remplacés et réorganisation du service)
 - Relais sécurité pour le RSSI Insee
 - Formations à java (niveaux débutant et avancé)
-- Résorbption de la dette technique de plusieurs applications _legacy_ 
+- Résorption de la dette technique de plusieurs applications _legacy_ 
 - Animation des travaux autour du poste de travail du développeur Insee et développement d'un outil pour protéger l'accès aux ressources protégées par les applications java exécutées en local
 - Contributions au framework Spring
 - Preuves de concept : 
